@@ -1,0 +1,16 @@
+{
+    "name": "jolharg/socket",
+    "description": "Sockets in OOP for PHP",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Kathie Dart",
+            "email": "git@kathiedart.uk"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": { "Jolharg\Socket": "src" }
+    }
+}
